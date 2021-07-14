@@ -1,1 +1,2 @@
-# CodeRefactor1
+# HW2
+For the polish on the portfolio, I linked two completed projects on the page, my archive from when I wrote columns that would run on the Seattle PI's website, my Linkedin, my GitHub profile and a pdf of my resume. I added some extra styling without using a framework and wrote a little bit about my professional background. 
